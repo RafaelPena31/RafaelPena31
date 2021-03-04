@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi :D 👋
+My name is Rafael Augusto Pena 🇧🇷
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelPena31)](https://github.com/RafaelPena31)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-pena/)](https://www.linkedin.com/in/rafael-augusto-pena/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafael_pena_/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rafaelppena.medium.com/)
 
-<!--
-**RafaelPena31/RafaelPena31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me 😄
+I am a mobile/web developer . Passionate about technology since childhood. Enthusiastic in the development niche and practicing sports as a hobby, I remain fascinated by the wide possibility of creating and executing ideas that the development area allows us.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My contacts 📫
+rafaelppena31@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-pena/)](https://www.linkedin.com/in/rafael-augusto-pena/)
+
+🌍| Belo Horizonte - MG - Brasil
+💻| Mobile Developer at [framework system](https://frwk.com.br/)
