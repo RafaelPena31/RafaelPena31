@@ -13,5 +13,5 @@ I am a mobile/web developer . Passionate about technology since childhood. Enthu
 rafaelppena31@gmail.com
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-pena/)](https://www.linkedin.com/in/rafael-augusto-pena/)
 
-🌍| Belo Horizonte - MG - Brasil
-💻| Mobile Developer at [framework system](https://frwk.com.br/)
+* 🌍| Belo Horizonte - MG - Brasil
+* 💻| Mobile Developer at [framework system](https://frwk.com.br/)
