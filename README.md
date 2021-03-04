@@ -5,6 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafael_pena_/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rafaelppena.medium.com/)
 
+* 🌍| Belo Horizonte - MG - Brasil
+* 💻| Mobile Developer at [framework system](https://frwk.com.br/)
 
 ## About me 😄
 I am a mobile/web developer . Passionate about technology since childhood. Enthusiastic in the development niche and practicing sports as a hobby, I remain fascinated by the wide possibility of creating and executing ideas that the development area allows us.
@@ -12,6 +14,3 @@ I am a mobile/web developer . Passionate about technology since childhood. Enthu
 ## My contacts 📫
 - ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - rafaelppena31@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-pena/)](https://www.linkedin.com/in/rafael-augusto-pena/) - Rafael Augusto Pena
-
-* 🌍| Belo Horizonte - MG - Brasil
-* 💻| Mobile Developer at [framework system](https://frwk.com.br/)
