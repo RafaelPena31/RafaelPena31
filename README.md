@@ -12,5 +12,5 @@
 I am a mobile/web developer . Passionate about technology since childhood. Enthusiastic in the development niche and practicing sports as a hobby, I remain fascinated by the wide possibility of creating and executing ideas that the development area allows us.
 
 ## My contacts 📫
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelppena31@gmail.com) - rafaelppena31@gmail.com
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelppena31@gmail.com?subject=Hello) - rafaelppena31@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-pena/)](https://www.linkedin.com/in/rafael-augusto-pena/) - Rafael Augusto Pena
