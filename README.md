@@ -6,10 +6,10 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rafaelppena.medium.com/)
 
 * 🌍| Belo Horizonte - MG - Brasil
-* 💻| Mobile Developer at [Syngenta Digital](https://syngentadigital.ag/)
+* 💻| Mobile Specialist Software Engineer at [Syngenta Digital](https://syngentadigital.ag/)
 
 ## About me 😄
-I am a mobile / web developer. Passionate about technology since childhood. Enthusiastic in the development niche and practicing sports as a hobby, I remain fascinated by the wide possibility of creating and executing ideas that the development area allows us.
+I am a Software Engineer. Passionate about technology since childhood. Enthusiastic in the development niche and practicing sports as a hobby, I remain fascinated by the wide possibility of creating and executing ideas that the development area allows us.
 
 ## My contacts 📫
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelppena31@gmail.com?subject=Hello) - rafaelppena31@gmail.com
